@@ -1,0 +1,56 @@
+Meta project about sharing and stuff
+
+1. Me
+  * Computers, ergonomics, "data", &c.
+  * I went to Prishtina for SFK, and I'm flying from there to USA
+      in a week, so I took a detour to Tirana
+  * Why I can whimsically spend two weeks in the Balkans
+    * I don't have much stuff, and I don't have kids or anything,
+        so I don't need to be anywhere in particular.
+    * I don't care very much for work (more on that later).
+2. My strange views on work
+  * Work is overrated
+    * Working more doesn't make more money. I know people who work a lot
+        and a little and who make a lot and a little, and these two factors
+        don't seem to matter much.
+    * I haven't found any work that I particularly enjoy and that pays well;
+        I think it's easier to look for fulfillment and money in different
+        places, at least for me.
+    * Saving money is easier than making money.
+    * I like to sleep.
+  * Looking for work isn't worth it.
+    * I do all sorts of strange things for fun and put them on the internet.
+        I also go to different places and meet people in person.
+    * Once in a while, people hire me in ways that I rarely can predict.
+        Usually, I met them a few years ago and they have paid attention to
+        me on the internet.
+    * In order to be like this, I need to have enough money saved that I
+        don't have to worry if I don't make money for several months.
+  * I usually don't like talking about computers.
+    * Things 
+3. Sharing
+  * The words "open" and "free" are given all kinds of meanings today.
+  * But they have something to do with sharing, and that's what I'm going
+      to talk about.
+  * Sharing is normal in many contexts and strange in others.
+4. Agency
+  * Story about the lights: I stayed with some people who had fancy light
+      bulbs...
+  * To him, the light bulbs were a magical thing that could be used only
+      through the app.
+  * I realized that there must be another way of controlling them because
+      I haven't ever seen *real* magic.
+5. Strange things I share
+  * Anything that doesn't need to be private
+    * Most of my calendar
+    * Things that I find myself telling to lots of people
+    * Nearly all of the software I write
+  * I recently discovered that the United States military does
+      [something similar](http://www.dtic.mil/dtic/pdf/customer/STINFOdata/DoD5200_1ph.pdf).
+6. Advantages of sharing these things
+  * Practical things
+    * I don't need to remember passwords
+    * I can find the things with an ordinary web search
+    * I can send things to other people easily.
+    * People sometimes edit them. (thomaslevine.com is a wiki.)
+  * Other interesting things: Show the email.
